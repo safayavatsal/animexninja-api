@@ -30,6 +30,5 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 
-- **Ayush kumar Rout** - _Development_ - [AyushRout](https://github.com/routayush1)
-- **Gaurav** - _Development_ - [Gaurav](https://github.com/gauravdh9)
-- **Soham Singh Yadav** - _Development_ - [SohamSingh](https://github.com/sohamsingh29)
+- **Vatsal** - [Vatsal](https://github.com/safayavatsal)
+- **Tarun** - [Tarun](https://github.com/tarunpandey23)
